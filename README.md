@@ -42,5 +42,9 @@ Browse through the sections to explore my work.
 
 ## Contact 
 
+<<<<<<< HEAD
 - [rikus-van-rooyen-email](rikusvr12@gmail.com)
 >>>>>>> bdcb6fd (Added contact information to README, I did not save the first time)
+=======
+- [rikusvr12@gmail.com]
+>>>>>>> 849f7d3 (fixed contact information)
