@@ -36,4 +36,11 @@ Browse through the sections to explore my work.
 ## Contributors
 
 - [Rikus van Rooyen](https://github.com/Rikusvr375)
+<<<<<<< HEAD
 >>>>>>> cb0a3b8 (Add README file with project details)
+=======
+
+## Contact 
+
+- [rikus-van-rooyen-email](rikusvr12@gmail.com)
+>>>>>>> bdcb6fd (Added contact information to README, I did not save the first time)
