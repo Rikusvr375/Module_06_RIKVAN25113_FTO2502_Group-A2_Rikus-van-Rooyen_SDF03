@@ -1,7 +1,8 @@
 /* Base Styles */
 
 :root {
-    font-size: 20px;
+    font-size: 10px;
+   
 }
 
 *,
@@ -19,5 +20,46 @@ body {
 }
 
 img {
-    display: block;
+    display: flex;
+    align-items: center;
+}
+
+.profile {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    
+    
+}
+
+.profile-image img {
+    border: 12px solid green;
+    border-radius: 100%;
+    width: 300px;
+    height: 300px;
+}
+
+.profile-user-settings {
+    display: flex;
+    justify-content: center;
+}
+
+.btn-profile-edit-btn {
+    height: 20px;
+    margin: 15px 10px 10px 25px;
+}
+
+.btn-profile-settings-btn {
+    height: 20px;
+    margin-top: 15px;
+}
+
+.profile-stats {
+    display: flex;
+    justify-content: center;
+}
+
+.profile-bio {
+    display: flex;
+    justify-content: center;
 }
