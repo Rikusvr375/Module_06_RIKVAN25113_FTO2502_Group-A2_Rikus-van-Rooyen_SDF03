@@ -75,7 +75,6 @@ body {
 ul {
     list-style-type: none;
     display: flex;
-    margin: ;
 }
 
 li {
@@ -154,3 +153,4 @@ li {
 .gallery-item-type .fa-clone {
     display: none;
 }
+
